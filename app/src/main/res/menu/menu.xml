@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<item android:id="@+id/logo"
+    android:title="alcos"
+    android:icon="@mipmap/logoff"
+    app:showAsAction="always"
+    >
+
+
+</item>
+    <item android:id="@+id/message"
+        android:title="message"
+        android:icon="@drawable/message"
+        app:showAsAction="always"
+        >
+    </item>
+    <item android:id="@+id/panier" android:title="panier"
+        android:icon="@drawable/panier"
+        app:showAsAction="always"
+        >    </item>
+    <item android:id="@+id/profile" android:title="compte"
+        android:icon="@drawable/profil"
+        app:showAsAction="always"
+        >    </item>
+</menu>

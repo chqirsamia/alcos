@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976768404154",
+    "project_id": "alcos-452a4",
+    "storage_bucket": "alcos-452a4.appspot.com",
+    "firebase_url": "https://alcos-452a4-default-rtdb.europe-west1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976768404154:android:29a28420c0bf51a030d083",
+        "android_client_info": {
+          "package_name": "com.example.alcos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976768404154-hjeamblg1fflaqjjslb5sojt9db4ddu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7K9lJHjUluOjEql7BiYaONLwLwHN7iTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976768404154-hjeamblg1fflaqjjslb5sojt9db4ddu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
